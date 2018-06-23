@@ -1,0 +1,21 @@
+{
+  "name": "com.develcode.plugins.volumeControl",
+  "version": "1.3.2",
+  "description": "Android Volume Control Plugin - Allows setting and retrieving the media volume of the device.",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manusimpson/Phonegap-Android-VolumeControl"
+  },
+  "keywords": [
+    "cordova",
+    "volume",
+    "cordova-android"
+  ],
+  "author": "Manuel Simpson",
+  "license": "MIT"
+}
